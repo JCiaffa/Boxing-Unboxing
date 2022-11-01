@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\bin\Debug\net6.0\Boxing-Unboxing.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\bin\Debug\net6.0\Boxing-Unboxing.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\bin\Debug\net6.0\Boxing-Unboxing.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\bin\Debug\net6.0\Boxing-Unboxing.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\bin\Debug\net6.0\Boxing-Unboxing.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\refint\Boxing-Unboxing.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\Boxing-Unboxing.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Boxing-Unboxing\obj\Debug\net6.0\ref\Boxing-Unboxing.dll
